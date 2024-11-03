@@ -1,2 +1,2 @@
 # MyBloggingWebsite
-My Blogging Web Site
+My Management Blogging Web Site
