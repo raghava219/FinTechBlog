@@ -107,3 +107,51 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+#bankImage {
+  background-image: url("./images/FintechIntro/bank.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#timeValueOfMoneyImage {
+  background-image: url("./images/FinancialStatements/TimeValueOfMoney.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#cashFlowStatementImage {
+  background-image: url("./images/FinancialStatements/cashflowstatement.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#incomeStatementImage {
+  background-image: url("./images/FinancialStatements/Incomestatementcopy.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#balanceSheetImage {
+  background-image: url("./images/FinancialStatements/balancesheet.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#financeStaementImage {
+  background-image: url("./images/FinancialStatements/financialstatements.webp");
+  width: 100%;
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
